@@ -68,6 +68,7 @@ header{
     text-align: center;
 }
 
+
 header > p{
     font-family: var(--font-padrao);
     font-size: 1.2em;
@@ -130,13 +131,13 @@ main img.pequeno{
 
 main h1{
     color: var(--cor5);
-    font-family: var(--fonte-android);
+    font-family: 'Android', 'cursive';
     padding: 0px 0px 3px 0px;
 
 }
 
 main h2{
-    font-family: var(--fonte-android);
+    font-family: 'Android', 'cursive';
     color: var(--cor5);
     font-size: 1.3em;
     background-image: linear-gradient(to right, var(--cor1), transparent);
