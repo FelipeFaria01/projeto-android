@@ -76,7 +76,7 @@ header > p{
     padding: 0px 10px 2px 10px;
     max-width: 600px;
     margin: auto;
-    margin-bottom: 20px;
+    padding-bottom: 20px;
     text-shadow: -2px 2px 1px black;
 }
 
@@ -91,7 +91,6 @@ header > h1 {
 nav{
     background-color: var(--cor7);
     padding: 10px;
-    display: flex;
     box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.671);
 }
 
